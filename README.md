@@ -23,6 +23,11 @@ Config file example <<default.json>>
 }
 ```
 
+### Install node_modules
+```bash
+npm i
+```
+
 ### Run project
 ```bash
 node bin/www.js
