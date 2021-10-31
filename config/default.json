@@ -1,0 +1,13 @@
+{
+  "cors": [],
+  "jwtSecret": "[@%3xe)dfsdmw9rw8h98wdsk6xib?G38sjj9?",
+  "postgres": {
+    "poolSize": 5,
+    "host": "localhost",
+    "port": 5432,
+    "database": "db",
+    "user": "root",
+    "password": "password",
+    "ssl": false
+  }
+}
